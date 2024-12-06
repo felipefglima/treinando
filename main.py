@@ -14,3 +14,5 @@ bill_person = (bill/people)
 print(f"Por pessoa deu: ${bill_person}")
 print(f"Gorjeta por Pessoa ${tip_per_person}")
 print(f"Com gorjeta cada um deve pagar: ${final_amount}")
+
+input("Pressione Enter para sair...")
